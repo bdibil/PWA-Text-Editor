@@ -8,7 +8,7 @@
 
 - The app is deployed to heroku below
 
-[link](url)
+[J.A.T.E - BD](https://jate-bd.herokuapp.com/)
 
 
 ## Table of Contents 
@@ -20,7 +20,7 @@
 
 ## Usage    
 To use this application:
-1. Open [link](url) on your browser
+1. Open [J.A.T.E - BD](https://jate-bd.herokuapp.com/) on your browser
 
 2. ....
 
