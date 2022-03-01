@@ -11,6 +11,7 @@
 
 ## Table of Contents 
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [License](#license)  ![GitHub](https://img.shields.io/github/license/bdibil/PWA-Text-Editor)
 - [Questions](#Questions)
 
@@ -21,6 +22,12 @@ To use this application:
 
 2. ....
 
+  
+## Screenshot  
+
+![](assets/images/screenshot.png)
+
+  
 
 ## License  
 MIT License
