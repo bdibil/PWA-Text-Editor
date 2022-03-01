@@ -6,7 +6,9 @@
 - It uses the `idb` package, which is a lightweight wrapper around the IndexedDB API
 
 
-- The app is deployed to heroku [link](url)
+- The app is deployed to heroku below
+
+[link](url)
 
 
 ## Table of Contents 
@@ -25,7 +27,7 @@ To use this application:
   
 ## Screenshot  
 
-![](assets/images/screenshot.png)
+![](Assets/screenshot.png)
 
   
 

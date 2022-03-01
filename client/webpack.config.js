@@ -1,11 +1,11 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
-// TODO: Add CSS loaders and babel to webpack.
+// DONE: Add CSS loaders and babel to webpack.
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 const WebpackPwaManifest = require('webpack-pwa-manifest');
 
-// TODO: Add and configure workbox plugins for a service worker and manifest file.
+// DONE: Add and configure workbox plugins for a service worker and manifest file.
 const WorkboxPlugin = require('workbox-webpack-plugin');
 
 const path = require('path');
