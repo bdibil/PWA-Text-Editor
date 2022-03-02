@@ -6,7 +6,7 @@
 - It uses the `idb` package, which is a lightweight wrapper around the IndexedDB API
 
 
-- The app is deployed to heroku below
+- The app is deployed to heroku on the link below
 
 [J.A.T.E - BD](https://jate-bd.herokuapp.com/)
 
@@ -22,7 +22,6 @@
 To use this application:
 1. Open [J.A.T.E - BD](https://jate-bd.herokuapp.com/) on your browser
 
-2. ....
 
   
 ## Screenshot  
